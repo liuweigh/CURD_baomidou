@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="776f7f07-6c92-402b-b6b5-d66a8407ac64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/mybatisplus/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/mybatisplus/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/mybatisplus/mapper/userMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/mybatisplus/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/mybatisplus.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/mybatisplus/MyApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/mybatisplus/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/mybatisplus/mapper/userMapperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/mybatisplus/pojo/User.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/javaSoftware/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\javaSoftware\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WHjMUOJ8WSOBArikfunwp3R4HN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.userMapperTest.testSelectPage">
+    <configuration name="userMapperTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shenruan.mybatisplus.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shenruan.mybatisplus.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.shenruan.mybatisplus.mapper.userMapperTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userMapperTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shenruan.mybatisplus.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shenruan.mybatisplus.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.shenruan.mybatisplus.mapper.userMapperTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userMapperTest.testSelectByLe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shenruan.mybatisplus.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shenruan.mybatisplus.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.shenruan.mybatisplus.mapper.userMapperTest" />
+      <option name="METHOD_NAME" value="testSelectByLe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userMapperTest.testSelectPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shenruan.mybatisplus.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shenruan.mybatisplus.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.shenruan.mybatisplus.mapper.userMapperTest" />
+      <option name="METHOD_NAME" value="testSelectPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userMapperTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shenruan.mybatisplus.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shenruan.mybatisplus.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.shenruan.mybatisplus.mapper.userMapperTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatisplus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shenruan.mybatisplus.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.userMapperTest.testSelectPage" />
+        <item itemvalue="JUnit.userMapperTest.testUpdate" />
+        <item itemvalue="JUnit.userMapperTest.testDelete" />
+        <item itemvalue="JUnit.userMapperTest.testSave" />
+        <item itemvalue="JUnit.userMapperTest.testSelectByLe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="776f7f07-6c92-402b-b6b5-d66a8407ac64" name="Default Changelist" comment="" />
+      <created>1578813366751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578813366751</updated>
+      <workItem from="1578813368417" duration="2474000" />
+      <workItem from="1578963631761" duration="10677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1578815151760">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="801" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1578815151760" />
+    <state x="538" y="80" key="FileChooserDialogImpl" timestamp="1578974583367">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="538" y="80" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1578974583367" />
+    <state width="1237" height="347" key="GridCell.Tab.0.bottom" timestamp="1578973974762">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="347" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1578973974762" />
+    <state width="1237" height="347" key="GridCell.Tab.0.center" timestamp="1578973974762">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="347" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1578973974762" />
+    <state width="1237" height="347" key="GridCell.Tab.0.left" timestamp="1578973974761">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="347" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1578973974761" />
+    <state width="1237" height="347" key="GridCell.Tab.0.right" timestamp="1578973974762">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="347" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1578973974762" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1578964719623">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1578964719623" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1578964719623">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1578964719623" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1578964719623">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1578964719623" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1578964719623">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1578964719623" />
+    <state x="0" y="7" key="Maven.ArtifactSearchDialog" timestamp="1578964816383">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="7" key="Maven.ArtifactSearchDialog/0.0.1280.689@0.0.1280.689" timestamp="1578964816383" />
+    <state x="-196" y="0" key="SettingsEditor" timestamp="1578813753023">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="-196" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1578813753023" />
+    <state x="336" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1578963679323">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="336" y="250" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1578963679323" />
+    <state x="983" y="-12" width="670" height="676" key="search.everywhere.popup" timestamp="1578972559515">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="983" y="-12" width="670" height="676" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1578972559515" />
+  </component>
+</project>
